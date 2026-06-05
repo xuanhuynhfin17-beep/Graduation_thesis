@@ -1,0 +1,11 @@
+numpy
+pandas
+pyarrow
+openpyxl
+xlsxwriter
+matplotlib
+scikit-learn
+gymnasium
+stable-baselines3
+torch
+tensorboard

@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.venv/
+venv/
+
+# Data
+data/
+
+# Outputs
+outputs/
+
+# Tables
+tables/
+
+# Large result files
+*.xlsx
+*.csv
+*.parquet
+
+# Model checkpoints
+*.zip
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
